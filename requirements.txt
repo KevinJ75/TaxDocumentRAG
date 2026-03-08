@@ -1,0 +1,10 @@
+anthropic>=0.40.0
+pdfplumber>=0.11.0
+chromadb>=0.5.0
+streamlit>=1.40.0
+sentence-transformers>=3.0.0
+langchain>=0.3.0
+langchain-anthropic>=0.3.0
+langchain-chroma>=0.2.0
+langchain-community>=0.3.0
+langchain-huggingface>=0.1.0
