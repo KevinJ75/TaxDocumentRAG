@@ -11,7 +11,7 @@ A retrieval-augmented generation (RAG) assistant that lets users ask natural-lan
 
 ## Why this project
 
-Tax professionals routinely cross-reference hundreds of pages of IRS guidance to answer client questions. This tool turns that lookup into a conversation: you ask, the model retrieves the relevant passages, and you get an answer with the exact publication and page number it came from — so the answer is verifiable, not just plausible.
+Tax professionals routinely cross-reference hundreds of pages of IRS guidance to answer client questions. This tool turns that lookup into a conversation: you ask, the model retrieves the relevant passages, and you get an answer with the exact publication and page number it came from.
 
 The architecture is intentionally generic: swap the IRS PDFs for any document base (Confluence exports, legal contracts, internal wikis) and the same pipeline applies.
 
